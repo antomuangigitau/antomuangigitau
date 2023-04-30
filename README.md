@@ -2,7 +2,7 @@
 
 I'm a Frontend software developer.
 
-- I'm currently learning React, Typescript and Node.js to collaborate on full-stack web development projects.
+- I'm currently learning React, Typescript and Node.js to collaborate on Full-stack Web Development projects.
 
 - 📫 How to reach me: gitaumuangi@gmail.com
 
